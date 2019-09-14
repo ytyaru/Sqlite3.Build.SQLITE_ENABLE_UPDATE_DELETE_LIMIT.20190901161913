@@ -4,7 +4,7 @@ cd "$SCRIPT_DIR"
 # ========== ビルド ==========
 # ソースコード取得
 wget https://www.sqlite.org/2019/sqlite-src-3290000.zip
-unzip /sqlite-src-3290000.zip
+unzip sqlite-src-3290000.zip
 
 # 合併(amalgamation)ソースコード取得
 wget https://www.sqlite.org/2019/sqlite-autoconf-3290000.tar.gz
